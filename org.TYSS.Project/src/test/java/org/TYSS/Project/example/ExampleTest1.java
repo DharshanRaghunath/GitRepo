@@ -10,6 +10,7 @@ public void welcometest() {
 	@Test
 public void practiceTest() {
 	System.out.println("practice method");
+	System.out.println("hello");
 }
 	@Test
 public void alpha() {
