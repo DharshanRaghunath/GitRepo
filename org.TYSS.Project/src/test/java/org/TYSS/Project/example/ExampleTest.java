@@ -17,6 +17,8 @@ public void practiceTe4st() {
 		System.out.println(url);
 		System.out.println(browser);
 		System.out.println("method executed");
+
+		//System.out.println("hi");
 		System.out.println("hi");
 	//System.out.println("changed");
 }
