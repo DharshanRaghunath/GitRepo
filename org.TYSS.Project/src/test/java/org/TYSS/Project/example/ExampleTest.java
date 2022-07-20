@@ -17,9 +17,16 @@ public void practiceTe4st() {
 		System.out.println(url);
 		System.out.println(browser);
 		System.out.println("method executed");
+
+		//System.out.println("hi");
 		System.out.println("hi");
+
 		System.out.println("bye");
 	//s	System.out.println("conflict");
+
+	//System.out.println("changed");
+	System.out.print("changes");
+
 }
 }
 // in this program we can pass the url and browser  in the terminal and running the test scripts and the browser is launched and executed 
