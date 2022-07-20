@@ -19,7 +19,7 @@ public void practiceTe4st() {
 		System.out.println("method executed");*/
 
 		//System.out.println("hi");
-		System.out.println("hi");
+		//System.out.println("hi");
 	String	Url=System.getProperty("url");
 	String Browser = System.getProperty("browser");
 	System.out.println(Browser);
