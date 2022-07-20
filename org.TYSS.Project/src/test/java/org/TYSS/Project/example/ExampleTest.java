@@ -20,8 +20,10 @@ public void practiceTe4st() {
 
 		//System.out.println("hi");
 		System.out.println("hi");
-	String	url=System.getProperty("browser");
-	System.out.println(url);
+	String	Url=System.getProperty("url");
+	String Browser = System.getProperty("browser");
+	System.out.println(Browser);
+	System.out.println(Url);
 System.out.println("good evening");
 		System.out.println("bye");
 	//s	System.out.println("conflict");
