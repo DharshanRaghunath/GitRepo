@@ -9,14 +9,14 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class ExampleTest {
 	@Test
 public void practiceTe4st() {
-		String  url=System.getProperty("URL");
+		/*String  url=System.getProperty("URL");
 		String browser =System.getProperty("browser");
 	WebDriverManager.chromedriver().setup();
 	WebDriver driver = new ChromeDriver();
 	driver.get(url);
 		System.out.println(url);
 		System.out.println(browser);
-		System.out.println("method executed");
+		System.out.println("method executed");*/
 
 		//System.out.println("hi");
 		System.out.println("hi");
